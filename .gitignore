@@ -1,0 +1,7 @@
+# 白板項目 (A): 忽略虛擬環境資料夾
+.venv/
+venv/
+
+# 白板項目 (B): 忽略 Python 快取檔
+__pycache__/
+*.pyc
